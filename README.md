@@ -2,8 +2,7 @@
 ---
 <img width="993" alt="스크린샷 2020-07-13 오후 11 19 19" src="https://user-images.githubusercontent.com/22605753/87315430-77299400-c55f-11ea-9e28-48b615128e49.png">
 ### Stack
----
-- Java
+Java
 
 ### 주제
 초등학교 저학년 학생들의 수학 교육을 위한 브루마블 교육 게임 입니다.
